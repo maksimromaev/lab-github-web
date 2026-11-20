@@ -122,7 +122,6 @@ python main.py input.txt --width 40
 
 ### Схема проекта
 
-![Схема работы программы](https://via.placeholder.com/600x250.png?text=Word+Hyphenation)
 
 ## 👥 Команда разработчиков
 
