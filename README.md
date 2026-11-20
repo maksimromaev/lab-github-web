@@ -3,7 +3,6 @@
 ![Version](https://img.shields.io/badge/version-0.1.0-green)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![Language](https://img.shields.io/badge/language-Russian-red)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 > Программа, которая берёт текст на русском языке и **форматирует его строки по заданной длине**, корректно разбивая слова для переноса с одной строки на другую.
 
