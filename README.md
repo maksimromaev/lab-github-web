@@ -1,8 +1,5 @@
 # 📝 Перенос слов — форматирование русского текста по ширине строки
 
-![Version](https://img.shields.io/badge/version-0.1.0-green)
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
-![Language](https://img.shields.io/badge/language-Russian-red)
 
 > Программа, которая берёт текст на русском языке и **форматирует его строки по заданной длине**, корректно разбивая слова для переноса с одной строки на другую.
 
